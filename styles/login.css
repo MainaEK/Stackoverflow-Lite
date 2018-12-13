@@ -8,7 +8,7 @@ body{
     left: 0;
     top: 0;
     width: 100%;
-    background-color: #1C680F;
+    background-color: rgba(192, 115, 28, 0.438);
     color: white;
 }
 .logo{
@@ -29,7 +29,7 @@ body{
 }
 .container{
     width: 25%;
-    background-image: url("/home/greean/AndelaProjects/StackOverflow-lite/img/bg.jpg");
+    background-image: url("img\unnamed.png");
     border-radius: 5px;
     margin-left: 35%;
     margin-top: 10%;
@@ -68,7 +68,7 @@ body{
     margin-bottom: 0;
     font-size: 14px;
     line-height: 20px;
-    color: #5e5e5e;
+    color: #568ca5;
     text-align: center;
     vertical-align: middle;
     border: none;
@@ -106,7 +106,7 @@ body{
     bottom: 0;
     padding-bottom: 5px;
     width: 100%;
-    background-color: #1C680F;
+    background-color: rgba(192, 115, 28, 0.438);
     color: white;
     text-align: center;
 }
